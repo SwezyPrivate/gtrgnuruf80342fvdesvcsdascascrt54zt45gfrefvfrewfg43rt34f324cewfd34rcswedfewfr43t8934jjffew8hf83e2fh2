@@ -372,7 +372,7 @@ if __name__ == '__main__':
     else:
         pass
     if dsvisdf == 'y':
-        hzirge()
+        fwf9ud98()
     else:
         pass
 
